@@ -10,3 +10,4 @@ Use the mouse wheel to use contestual zoom or pan.
 Press R again to render.
 
 To edit a point select "Tools->Mode->Select" then left-click on a item, grab to move it or use the "Point info" window to edit its properties.
+![Alt text](docs/img/quadrupole.jpg?raw=true "Quadrupole")
