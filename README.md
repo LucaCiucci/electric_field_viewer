@@ -2,8 +2,8 @@
 A basic 2d electric field viewer for simlple electrostaticstatic systems
 
 ## Usage
-To insert a point select "Tools->Mode->Insert" and "Tools->Item->Point", then right-click on the space to inser a positive charge, right-click to insert a negative charge.
-On the point insert window you can change the charge.
+To insert a point select "Tools->Mode->Insert" and "Tools->Item->Point", then right-click on the space to insert a positive charge, right-click to insert a negative charge.
+On the "Point insert" window you can change the charge.
 
 Then press R key to render the view.  
 Use the mouse wheel to use contestual zoom or pan.  
