@@ -2,6 +2,8 @@
 A basic 2d electric field viewer for simlple electrostaticstatic systems
 
 ## Usage
+On Windows, execute "bin/win64/electric_field_viewer.exe"
+
 To insert a point select "Tools->Mode->Insert" and "Tools->Item->Point", then right-click on the space to insert a positive charge, right-click to insert a negative charge.
 On the "Point insert" window you can change the charge.
 
